@@ -198,8 +198,12 @@ input stream (EOF) causes the application to save and exit cleanly
 instead of looping. See `docs/detailed_design.md` §8 and §11.
 
 ## Student Information
+- **Student name:** Kumar Kulkarni
+- **Roll number:** 612509024
+- **Division/Branch:** Instrumentation and Control
+- **Project title:** Firecracker Shop Licence and Stock Compliance Tracker
 - **Email:** kulkarnikm25.instru@coeptech.ac.in
-- **GitHub repository link:** _add after publishing_
+- **GitHub repository link:** https://github.com/kumarmkulkarni/Firecracker-Shop-Licence-and-Stock-Compliance-Tracker
 
 ## Known Limitations
 - Single shop / single licence per running instance (no multi-shop support).
@@ -214,4 +218,4 @@ instead of looping. See `docs/detailed_design.md` §8 and §11.
 - A configurable alert threshold instead of the fixed 90% NEAR_LIMIT ratio.
 
 ## GitHub Repository Link
-_Add this after creating and pushing the repository._
+https://github.com/kumarmkulkarni/Firecracker-Shop-Licence-and-Stock-Compliance-Tracker
