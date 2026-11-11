@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+bin/
+
+# Generated runtime data (sample_data.txt is tracked instead)
+data/stock.dat
+data/transactions.log
+data/shop_config.txt
+
+# Editor / OS files
+*.swp
+*~
+.DS_Store
+.vscode/
+.idea/
